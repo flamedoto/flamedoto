@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Maib Shabbir</h1>
 <h3 align="center">A Developer from Pakistan</h3>
 
@@ -14,6 +16,7 @@
 - 📫 How to reach me **maibshabbir4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+![Maib's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamedoto&show_icons=true&theme=radical)
 <p align="left">
 <a href="https://dev.to/flame`" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flame`" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maib-shabbir-78a56b15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maib-shabbir-78a56b15b" height="30" width="40" /></a>
