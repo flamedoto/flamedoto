@@ -11,7 +11,7 @@
 
 - ✨ My Best Work [ReactJS & Laravel](https://hoo.be/apply)
 
-- 🤝 I’m looking for help with [SQL Injection Prevention](SQL Injection Prevention)
+- 🤝 I’m looking for help with PyTouch & TensorFlow
 
 - 💬 Ask me about **React.js , Node.js , Laravel , React Native**
 
