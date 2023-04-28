@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analytics , Python.**
 
-- 👯 I’m looking to collaborate on [Magento](https://maxcareshopper.com/)
+- 👯 I’m looking to collaborate on [Frontend Development](https://maxcareshopper.com/)
 
 - ✨ My Best Work [ReactJS & Laravel](https://hoo.be/apply)
 
