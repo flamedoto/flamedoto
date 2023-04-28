@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maib Shabbir</h1>
 <h3 align="center">Full-Stack Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Laravel](https://amnaismail.com/)
+- 🔭 I’m currently working on [PostgreSQL](https://amnaismail.com/)
 
-- 🌱 I’m currently learning **MERN Stack , RoR.**
+- 🌱 I’m currently learning **Data Analytics , Python.**
 
 - 👯 I’m looking to collaborate on [Magento](https://maxcareshopper.com/)
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with PyTouch & TensorFlow
 
-- 💬 Ask me about **React.js , Node.js , Laravel , React Native**
+- 💬 Ask me about **ReactJS, Tableau , SQL , Laravel , React Native**
 
 - 📫 How to reach me **maibshabbir4@gmail.com**
 
