@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Maib Shabbir</h1>
-<h3 align="center">Full-Stack Developer from Pakistan</h3>
+<h3 align="center">Software Enginner from Pakistan</h3>
 
 - 🔭 I’m currently working on [PostgreSQL](https://amnaismail.com/)
 
