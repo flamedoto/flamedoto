@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maib Shabbir</h1>
 <h3 align="center">Software Enginner from Pakistan</h3>
 
-- 🔭 I’m currently working on [PostgreSQL](https://amnaismail.com/)
+- 🔭 I’m currently working on Data Analystics
 
-- 🌱 I’m currently learning **Data Analytics , Python.**
+- 🌱 I’m currently learning **R , Python.**
 
 - 👯 I’m looking to collaborate on [Frontend Development](https://maxcareshopper.com/)
 
 - ✨ My Best Work [ReactJS & Laravel](https://hoo.be/apply)
 
-- 🤝 I’m looking for help with PyTouch & TensorFlow
+- 🤝 I’m looking for help with Pandas & PlotLib
 
 - 💬 Ask me about **ReactJS, Tableau , SQL , Laravel , React Native**
 
