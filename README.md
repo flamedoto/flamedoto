@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maib Shabbir</h1>
 <h3 align="center">Software Enginner</h3>
 
-- 🔭 I’m currently working on Data Analystics
+- 🔭 I’m currently working on Data Analysis
 
 - 🌱 I’m currently learning **R , Python.**
 
-- 👯 I’m looking to collaborate on [Frontend Development](https://maxcareshopper.com/)
+- 👯 I’m looking to collaborate on [Web3](https://breshna.io/s)
 
-- ✨ My Best Work [ReactJS & Laravel](https://hoo.be/apply)
+- ✨ My Best Work [JavaScript](https://chungiyoo.com/)
 
 - 🤝 I’m looking for help with Pandas & PlotLib
 
