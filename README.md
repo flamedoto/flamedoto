@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maib Shabbir</h1>
 <h3 align="center">Software Enginner</h3>
 
-- 🔭 I’m currently working on Data Analysis
+- 🔭 I’m currently working on White Label Solutions Development
 
 - 🌱 I’m currently learning **R , Python.**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ReactJS, Tableau , SQL , Laravel , React Native**
 
-- 📫 How to reach me **maibshabbir4@gmail.com**
+- 📫 How to reach me **loudlydev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
