@@ -19,8 +19,8 @@
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
 
-
-
+</br>
+</br>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
@@ -51,8 +51,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-
 
 <p align="center" >  
   <a href="https://github.com/flamedoto/github-readme-stats"> 
