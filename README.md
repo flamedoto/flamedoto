@@ -5,9 +5,9 @@
 
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
+    💼 Team Lead • full-stack dev • Platform Engineer • white-label solutions
+    💻 System programming languages • PHP • Python • ReactJS • React Native
+    📖 Software architecture • Distributed systems • ERP • IMS • CMS
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
