@@ -1,5 +1,5 @@
 <h2> Hi, I'm Muhammad Maib! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZwM3kwdHd3MXViZnlidDlxZjJ2OGptMG44bmJxcXVuMXhvODh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzZml2cDE4dHU0bGdwdWRhdzRodTB5MGkxZWZxb3ZrM2JpZzJsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="230">
 <p><em>Senior Solutions Developer at <a href="https://www.chromacars.com/">ChromaCars</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Project Manager & Consultant at <a href="http://loudlydev.com/">LoudlyDev Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,9 +11,9 @@
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
-<br><br>
+
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
+<br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
@@ -21,7 +21,6 @@
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
 
-</br>
 </br>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
