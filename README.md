@@ -1,5 +1,5 @@
 <h2> Hi, I'm Muhammad Maib! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZwM3kwdHd3MXViZnlidDlxZjJ2OGptMG44bmJxcXVuMXhvODh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="230">
 <p><em>Senior Solutions Developer at <a href="https://www.chromacars.com/">ChromaCars</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Project Manager & Consultant at <a href="http://loudlydev.com/">LoudlyDev Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
